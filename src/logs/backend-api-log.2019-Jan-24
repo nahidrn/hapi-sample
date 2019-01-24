@@ -1,0 +1,1170 @@
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:25:43.103Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:25:43.105Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:25:43.139Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:28:54.448Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:28:54.450Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:28:54.460Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:29:28.189Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:29:28.192Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:29:28.203Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:30:02.994Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T08:30:03.047Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:34:14.001Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:34:14.003Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:34:14.015Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:34:19.245Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T08:34:19.260Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:36:42.929Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:36:42.931Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:36:42.939Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:36:45.562Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T08:36:45.572Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:37:21.118Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:37:21.121Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:37:21.133Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:37:23.040Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T08:37:23.052Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:42:36.196Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:42:36.198Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:42:36.214Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:42:38.655Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T08:42:38.679Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:43:53.384Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:43:53.385Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:43:53.398Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:43:55.637Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T08:43:55.651Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:44:24.396Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:44:24.397Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:44:24.406Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:44:26.873Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T08:44:26.897Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:47:44.880Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:47:44.882Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:47:44.891Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:47:48.546Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T08:47:48.564Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:52:32.803Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:52:32.805Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:52:32.813Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:13.718Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:13.721Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:13.730Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:18.112Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:18.114Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:18.127Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:21.288Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:21.302Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:31.480Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T08:59:31.504Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:00:43.812Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:00:43.815Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:00:43.824Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:00:44.394Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T09:00:44.410Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:06:44.155Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:06:44.156Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:06:44.167Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:47.307Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:47.309Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:47.318Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: localhost:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:56.246Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: localhost:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:56.248Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:08:56.257Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:09:08.414Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:09:08.416Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:09:08.427Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:47:12.854Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:47:12.856Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:47:12.870Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:48:10.180Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T09:48:10.208Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:50:03.922Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:50:03.924Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:50:03.935Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:50:17.314Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T09:50:17.333Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:52:18.442Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:52:18.444Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:52:18.454Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:53:44.763Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:53:58.486Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:53:58.488Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:53:58.501Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:54:00.436Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T09:54:00.440Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned 7 users',
+  level: 'info',
+  timestamp: '2019-01-24T09:54:00.454Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned 7 users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:56:41.671Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:56:41.673Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:56:41.685Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:56:52.858Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T09:56:52.864Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:57:09.428Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:57:09.430Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:57:09.439Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:57:12.779Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T09:57:12.784Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T09:59:09.811Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T09:59:09.813Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T09:59:09.823Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T09:59:11.676Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T09:59:11.681Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:32.928Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:32.929Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:32.939Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:35.186Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:00:35.191Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:45.602Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:45.603Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:45.613Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:00:47.441Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:00:47.445Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:08.623Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:08.624Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:08.636Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:19.632Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:19.634Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:19.647Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:21.086Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:01:21.089Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:33.231Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:33.232Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:33.243Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:01:34.980Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:01:34.986Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:02:36.344Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:02:36.346Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:02:36.361Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:02:37.712Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:02:37.716Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:02:37.736Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:07:58.541Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:07:58.543Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:07:58.552Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:07:59.834Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:07:59.836Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:07:59.847Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:10.147Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:10.148Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:10.159Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:14.243Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 10, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:09:14.248Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":10,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:14.266Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:24.037Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 2, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:09:24.045Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":2,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:24.060Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:09:56.694Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:02.232Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:10:02.237Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:02.249Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:25.203Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:25.205Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:25.216Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:26.170Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:10:26.174Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:26.191Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:51.595Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 5, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:10:51.598Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":5,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:10:51.603Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T10:11:18.858Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T10:11:18.863Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T10:11:18.878Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:16.412Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:16.413Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:16.425Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:37.692Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:37.693Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:28:37.707Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:29:12.791Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:29:12.793Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:29:12.805Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:39:27.945Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:39:27.947Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:39:27.956Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:28.070Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:28.071Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:28.123Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:49.180Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:49.182Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:51:49.237Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T10:54:17.925Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T10:54:17.926Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T10:54:17.937Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:11:34.267Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:11:34.269Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:11:34.282Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:14:03.072Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:14:03.074Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:14:03.088Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:14.322Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:14.323Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:14.336Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:15.002Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T11:16:15.007Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:15.020Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'True!!',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:19.811Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"True!!","level":"info"}' }
+{ message: { page: 1, limit: 3, sort: 'userName' },
+  level: 'info',
+  timestamp: '2019-01-24T11:16:19.819Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":{"page":1,"limit":3,"sort":"userName"},"level":"info"}' }
+{ message: 'user:handlers: Returned undefined users',
+  level: 'info',
+  timestamp: '2019-01-24T11:16:19.834Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"user:handlers: Returned undefined users","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:27:44.367Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:27:44.370Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:27:44.386Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:30:52.183Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:30:52.184Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:30:52.193Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:31:36.751Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:31:36.753Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:31:36.762Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:33.302Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:33.304Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:33.313Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:43.872Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:43.874Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:36:43.883Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:37:02.811Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:37:02.812Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:37:02.825Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:40.608Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:40.610Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:40.619Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:45.006Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:45.009Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:45.022Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
+{ message: 'Server running at: 10.0.0.223:3000',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:51.681Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Server running at: 10.0.0.223:3000","level":"info"}' }
+{ message: 'Registered subscription for path /api/v1/socketTest',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:51.683Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Registered subscription for path /api/v1/socketTest","level":"info"}' }
+{ message: 'Connected with db successfully.',
+  level: 'info',
+  timestamp: '2019-01-24T11:55:51.695Z',
+  [Symbol(level)]: 'info',
+  [Symbol(message)]: '{"message":"Connected with db successfully.","level":"info"}' }
