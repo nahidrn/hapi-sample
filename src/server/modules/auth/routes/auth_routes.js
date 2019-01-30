@@ -9,11 +9,11 @@
 
 'use strict';
 const
-	handlers = require('../handlers'),
+	handlers = require('../handlers/index'),
 	joi = require('joi'),
-	validators = require('./validators'),
-	Cors = require('../modules/cors'),
-	schema = require('./schema');
+	validators = require('./validators/index'),
+	Cors = require('../../../plugins/cors'),
+	schema = require('./schema/index');
 
 const authRoutes = (server) => [
 	{
@@ -22,7 +22,7 @@ const authRoutes = (server) => [
 		config: {
 			cors: Cors.options,
 			auth: false,
-			handler: handlers.user.getTokenForUser,
+			handler: handlers.auth.getTokenForUser,
 			description: 'Generate a token for user!',
 			tags: ['api', 'v1', 'users']
 		}

@@ -13,6 +13,7 @@ module.exports = {
 	documentation: {
 		documentationPage: false
 	},
+	modules: ["auth", "test", "user"],
 	db: {
 		uri: "mongodb://localhost:27017/offerMgmt",
 		options: {

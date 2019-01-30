@@ -9,12 +9,10 @@
 
 'use strict';
 const
-	boom = require('boom'),
-	handlers = require('../handlers'),
+	handlers = require('../handlers/index'),
 	joi = require('joi'),
-	validators = require('./validators'),
-	Cors = require('../modules/cors'),
-	schema = require('./schema');
+	validators = require('./validators/index'),
+	schema = require('./schema/index');
 
 const userRoutes = (server) => [
 	{
@@ -22,7 +20,7 @@ const userRoutes = (server) => [
 		path: '/',
 		config: {
 			auth: false,
-			handler: handlers.user.landingMessage,
+			handler: handlers.test.landingMessage,
 			description: 'Just to avoid 404 on landing!',
 			tags: ['api', 'v1', 'users']
 		}
@@ -32,7 +30,7 @@ const userRoutes = (server) => [
 		path: '/api/v1/socketTest',
 		config: {
 			auth: false,
-			handler: handlers.user.socketTesting(server),
+			handler: handlers.test.socketTesting(server),
 			description: 'Testing on the socket!',
 			tags: ['api', 'v1', 'users', "socket"]
 		}

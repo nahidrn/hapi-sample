@@ -9,22 +9,11 @@
 'use strict';
 const
 	joi = require('joi'),
-	auth = require('../modules/auth'),
+	auth = require('../../../plugins/auth'),
 	services = require('../services'),
 	Boom = require('boom');
 
 const
-	getTokenForUser = (request, h) => {
-		//logger.info(request);
-		return new Promise((resolve, reject) => {
-			auth.generateToken()
-				.then(data => {
-					resolve(
-						{'authKey': data}
-					);
-				});
-		});
-	},
 	postUser = (request, h) => {
 		return new Promise((resolve, reject) => {
 			logger.info(request.payload);
@@ -88,23 +77,12 @@ const
 				});
 		});
 
-	},
-	landingMessage = (request, h) => {
-		return 'welcome to InfoReach-Service!';
-	},
-	socketTesting = (server) => (request, reply) => {
-		let data='something something something'
-		server.publish('/api/v1/socketTest', data);
-		return data;
 	};
 
 
 
 module.exports = {
-	getTokenForUser,
 	postUser,
 	getUsers,
-	getUserInfo,
-	landingMessage,
-	socketTesting
+	getUserInfo
 };

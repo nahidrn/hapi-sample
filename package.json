@@ -32,6 +32,8 @@
     "inert": "^5.1.0",
     "joi": "^13.4.0",
     "jsonwebtoken": "^8.3.0",
+    "lab": "^18.0.1",
+    "ldapjs": "^1.0.2",
     "memoizee": "^0.4.12",
     "mongoose": "^4.13.18",
     "nes": "^9.0.1",
@@ -42,8 +44,6 @@
     "utils": "^0.3.1",
     "vision": "^5.3.3",
     "winston": "^3.1.0",
-    "winston-daily-rotate-file": "^3.3.2",
-    "code": "^5.2.4",
-    "lab": "^18.0.1"
+    "winston-daily-rotate-file": "^3.3.2"
   }
 }

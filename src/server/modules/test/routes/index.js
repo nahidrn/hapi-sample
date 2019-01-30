@@ -9,8 +9,6 @@
 
 'use strict';
 const
-	userRoutes = require('./user_routes'),
-	authRoutes = require('./auth_routes'),
 	testRoutes = require('./test_routes');
 
 /*
@@ -38,7 +36,7 @@ Versions:
 // Passing in server, mostly to deal with server.publish in the different handlers
 
 const routes = (server) =>
-	[].concat.apply([], [userRoutes(server), authRoutes(server), testRoutes(server)]);
+	[].concat.apply([], [testRoutes(server)]);
 
 
 module.exports = routes;

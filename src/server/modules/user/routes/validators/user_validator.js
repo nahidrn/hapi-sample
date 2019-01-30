@@ -1,7 +1,7 @@
 'use strict';
 
 const joi = require('joi');
-const schema = require('../schema/');
+const schema = require('../schema/index');
 
 module.exports = {
     get_user: {

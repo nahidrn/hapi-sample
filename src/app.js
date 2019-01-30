@@ -10,7 +10,7 @@
 
 global.Global = require('./global');
 global.SetupConfig = require('./config/deployment/setup');
-global.logger = require('./server/modules/logger/logger.js');
+global.logger = require('./server/plugins/logger/logger.js');
 
 
 // Server configurations

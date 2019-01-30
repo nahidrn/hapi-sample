@@ -9,12 +9,13 @@
 'use strict';
 
 const Hapi = require("hapi"),
-	routes = require('./routes/index'),
-	plugins = require('./modules/plugins'),
-	subscriptions = require('./modules/subscriptions'),
-	authValidation = require('./modules/auth').validate,
+	routes = require('./routes'),
+	plugins = require('./plugins/index'),
+	subscriptions = require('./plugins/subscriptions'),
+	authValidation = require('./plugins/auth').validate,
 	Mongoose = require('mongoose');
 
+global.LDAP = require('./plugins/ldap/auth');
 
 
 const start = (host, port) => {
@@ -60,7 +61,7 @@ const start = (host, port) => {
 
 		process.on('unhandledRejection', (err) => {
 
-			logger.error(err);
+			console.log(err);
 			process.exit(1);
 		});
 

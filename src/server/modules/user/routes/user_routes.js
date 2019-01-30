@@ -10,11 +10,10 @@
 'use strict';
 const
 	boom = require('boom'),
-	handlers = require('../handlers'),
+	handlers = require('../handlers/index'),
 	joi = require('joi'),
-	validators = require('./validators'),
-	Cors = require('../modules/cors'),
-	schema = require('./schema');
+	validators = require('./validators/index'),
+	schema = require('./schema/index');
 
 const userRoutes = (server) => [
 

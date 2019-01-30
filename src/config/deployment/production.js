@@ -70,6 +70,7 @@ module.exports = {
 		jsonEditor: true,
 		validatorUrl: null
 	},
+	modules: ["auth", "test", "user"],
 	db: {
 		uri: "mongodb://localhost:27017/offerMgmt",
 		options: {
